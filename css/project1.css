@@ -102,9 +102,9 @@ background: radial-gradient(circle, rgba(42, 123, 155, 1) 0%, rgba(87, 199, 133,
 
 .beans{
     text-align: center;
-    width: 50vw;
+    width: 25vw;
     border: 10px dotted rgb(255, 0, 230);
-    top: 1000px;
+    top: 350px;
     left: 10px;
     position: absolute;
     color: greenyellow;
